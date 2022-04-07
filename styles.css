@@ -27,7 +27,7 @@ a{
 }
 
 .first-part{
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 100px;
     background-color: #1F2937;
     display: flex;
@@ -97,4 +97,58 @@ a{
 
 .text-1{
     text-align: center;
+}
+
+.third-part{
+    background-color: #E5E7EB;
+    padding: 100px 300px;
+}
+
+.quote{
+    font-size: 36px;
+    font-weight: "light italic";
+    color: #1F2937;
+}
+
+.author{
+    display: block;
+    text-align: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.sign_up_plus{
+    border: solid white;
+    border-width: 1px;
+    height: 30px;
+    padding: 5px;
+    margin:0px;
+    color: #fff;
+    border-radius: 8px;
+    padding: 2px;
+    width: 110px;
+    background-color: #3882F6;
+}
+
+.fourth-part-text{
+    margin:0;
+    color:white;
+}
+
+.fourth-part{
+    min-width:144px;
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    align-items: center;
+    gap:100px;
+    margin: 100px 500px;
+    border-radius: 25px;
+    padding:30px 80px;
+}
+.footer{
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 20px;
 }
